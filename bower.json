@@ -1,0 +1,27 @@
+{
+  "name": "ngSimpleDropDownEffects",
+  "authors": [
+    "Sahil Anguralla <anguralla.sahil@gmail.com>"
+  ],
+  "description": "An AngularJS version of a jQuery plugin for transforming select inputs into drop-down lists with some simple expanding effects.",
+  "main": "js/simpleDropdown.js",
+  "moduleType": [],
+  "keywords": [
+    "3d",
+    "dropdown",
+    "effects",
+    "jquery",
+    "plugin",
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sahilanguralla/ngSimpleDropDownEffects",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
